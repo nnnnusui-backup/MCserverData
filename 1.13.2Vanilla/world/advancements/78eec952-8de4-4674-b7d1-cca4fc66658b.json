@@ -1,7 +1,26 @@
 {
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-11-22 16:35:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2018-11-22 16:35:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-11-22 16:35:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2018-11-22 15:54:50 +0900"
+      "minecraft:beach": "2018-11-22 15:54:50 +0900",
+      "minecraft:savanna": "2018-11-22 16:34:30 +0900"
     },
     "done": false
   }
