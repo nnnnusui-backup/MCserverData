@@ -616,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-11-23 21:56:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2018-11-22 17:24:21 +0900"
@@ -745,6 +751,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 18:33:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2018-11-23 21:48:00 +0900"
     },
     "done": true
   },
@@ -1017,6 +1029,7 @@
       "minecraft:cold_ocean": "2018-11-23 20:18:39 +0900",
       "minecraft:forest": "2018-11-23 20:23:32 +0900",
       "minecraft:mountains": "2018-11-23 21:08:10 +0900",
+      "minecraft:mushroom_fields": "2018-11-23 21:44:52 +0900",
       "minecraft:taiga": "2018-11-23 20:33:39 +0900",
       "minecraft:desert_hills": "2018-11-23 21:34:11 +0900",
       "minecraft:deep_cold_ocean": "2018-11-23 21:28:53 +0900",
@@ -1024,6 +1037,7 @@
       "minecraft:desert": "2018-11-23 21:32:28 +0900",
       "minecraft:deep_frozen_ocean": "2018-11-23 20:19:09 +0900",
       "minecraft:birch_forest": "2018-11-23 21:01:06 +0900",
+      "minecraft:warm_ocean": "2018-11-23 21:44:00 +0900",
       "minecraft:deep_lukewarm_ocean": "2018-11-23 21:43:35 +0900",
       "minecraft:savanna_plateau": "2018-11-22 17:21:18 +0900",
       "minecraft:beach": "2018-11-22 17:09:22 +0900",
@@ -1032,6 +1046,7 @@
       "minecraft:wooded_mountains": "2018-11-23 21:12:13 +0900",
       "minecraft:wooded_hills": "2018-11-23 20:22:56 +0900",
       "minecraft:stone_shore": "2018-11-23 20:20:50 +0900",
+      "minecraft:mushroom_field_shore": "2018-11-23 21:44:51 +0900",
       "minecraft:swamp": "2018-11-23 20:39:46 +0900",
       "minecraft:savanna": "2018-11-22 17:05:06 +0900",
       "minecraft:plains": "2018-11-23 20:34:09 +0900"
@@ -1080,6 +1095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2018-11-23 21:48:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2018-11-22 17:11:51 +0900"
@@ -1107,6 +1128,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2018-11-22 18:25:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2018-11-23 21:48:00 +0900"
     },
     "done": true
   },
