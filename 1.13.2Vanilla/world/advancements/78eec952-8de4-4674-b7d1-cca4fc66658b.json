@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-11-23 23:36:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 16:52:58 +0900"
@@ -314,6 +320,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-11-22 17:39:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2018-11-23 23:40:51 +0900"
     },
     "done": true
   },
@@ -628,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-11-23 23:35:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-11-22 17:18:16 +0900"
@@ -802,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2018-11-23 23:40:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 16:55:42 +0900"
@@ -876,9 +900,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2018-11-23 23:38:30 +0900",
       "minecraft:skeleton": "2018-11-22 17:04:08 +0900",
       "minecraft:phantom": "2018-11-23 00:52:30 +0900",
       "minecraft:zombie_pigman": "2018-11-23 15:34:22 +0900",
+      "minecraft:ghast": "2018-11-23 23:35:23 +0900",
       "minecraft:spider": "2018-11-22 16:48:59 +0900",
       "minecraft:zombie": "2018-11-22 16:43:21 +0900",
       "minecraft:creeper": "2018-11-22 19:22:07 +0900",
@@ -1090,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-11-23 23:38:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-11-22 16:50:05 +0900"
@@ -1159,6 +1191,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-22 19:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-11-23 23:36:05 +0900"
     },
     "done": true
   },
@@ -1438,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-11-23 23:38:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:30 +0900"
@@ -1498,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-11-23 23:38:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2018-11-22 16:58:13 +0900"
@@ -1549,6 +1599,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2018-11-22 22:50:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-11-23 23:36:03 +0900"
     },
     "done": true
   },
@@ -1681,6 +1737,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-11-22 22:56:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-11-23 23:36:03 +0900"
     },
     "done": true
   },
