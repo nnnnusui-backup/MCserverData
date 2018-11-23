@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-23 20:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 16:52:58 +0900"
@@ -284,6 +290,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2018-11-22 22:56:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-23 20:59:42 +0900"
     },
     "done": true
   },
@@ -706,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-23 20:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-11-22 16:44:52 +0900"
@@ -1012,6 +1030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2018-11-23 21:39:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2018-11-22 21:30:57 +0900"
@@ -1027,6 +1051,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-22 19:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-23 20:59:42 +0900"
     },
     "done": true
   },
