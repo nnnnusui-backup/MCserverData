@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-11-23 20:10:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-11-22 21:19:55 +0900"
@@ -311,6 +317,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2018-11-23 00:55:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-23 20:10:14 +0900"
     },
     "done": true
   },
@@ -502,7 +514,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2018-11-23 14:11:09 +0900"
+      "minecraft:cow": "2018-11-23 14:11:09 +0900",
+      "minecraft:pig": "2018-11-23 20:00:43 +0900"
     },
     "done": false
   },
@@ -863,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-23 20:10:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-11-22 21:12:04 +0900",
@@ -909,6 +928,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-11-23 01:45:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2018-11-23 20:31:37 +0900"
     },
     "done": true
   },
