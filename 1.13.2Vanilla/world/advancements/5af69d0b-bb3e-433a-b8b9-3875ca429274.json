@@ -669,6 +669,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-11-22 17:09:56 +0900",
+      "minecraft:phantom": "2018-11-24 14:19:57 +0900",
       "minecraft:enderman": "2018-11-22 19:22:30 +0900",
       "minecraft:spider": "2018-11-22 18:00:43 +0900",
       "minecraft:zombie": "2018-11-22 17:59:27 +0900",
@@ -692,6 +693,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2018-11-24 00:03:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-11-24 13:55:22 +0900"
     },
     "done": true
   },
@@ -722,6 +729,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2018-11-22 17:47:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-11-24 13:55:08 +0900"
     },
     "done": true
   },
@@ -1311,6 +1324,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 18:33:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-11-24 13:55:08 +0900"
     },
     "done": true
   },
