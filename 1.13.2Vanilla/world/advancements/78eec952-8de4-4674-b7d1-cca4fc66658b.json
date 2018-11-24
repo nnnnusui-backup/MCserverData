@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-11-24 16:52:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 16:52:58 +0900"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2018-11-24 17:17:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-11-22 17:29:50 +0900"
@@ -380,6 +392,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 16:52:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-11-24 17:37:07 +0900"
     },
     "done": true
   },
@@ -549,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-11-24 17:37:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2018-11-22 17:29:51 +0900"
@@ -694,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2018-11-24 17:37:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-11-22 17:18:16 +0900"
@@ -754,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-11-24 17:28:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 16:54:32 +0900"
@@ -781,6 +817,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2018-11-23 23:54:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2018-11-24 17:01:26 +0900"
     },
     "done": true
   },
@@ -847,6 +889,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 16:52:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2018-11-24 17:17:52 +0900"
     },
     "done": true
   },
@@ -968,6 +1016,7 @@
       "minecraft:spider": "2018-11-22 16:48:59 +0900",
       "minecraft:zombie": "2018-11-22 16:43:21 +0900",
       "minecraft:creeper": "2018-11-22 19:22:07 +0900",
+      "minecraft:drowned": "2018-11-24 17:16:17 +0900",
       "minecraft:zombie_villager": "2018-11-23 01:33:51 +0900"
     },
     "done": false
@@ -993,6 +1042,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2018-11-24 16:37:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-11-24 16:51:07 +0900"
     },
     "done": true
   },
@@ -1356,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2018-11-24 17:28:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-22 19:17:42 +0900"
@@ -1515,6 +1576,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-11-24 17:37:07 +0900"
     },
     "done": true
   },
@@ -1684,11 +1751,27 @@
     "criteria": {
       "minecraft:cold_ocean": "2018-11-22 16:44:55 +0900",
       "minecraft:mountains": "2018-11-22 22:59:24 +0900",
+      "minecraft:forest": "2018-11-24 17:21:40 +0900",
+      "minecraft:mushroom_fields": "2018-11-24 17:04:26 +0900",
+      "minecraft:taiga": "2018-11-24 17:31:25 +0900",
+      "minecraft:desert_hills": "2018-11-24 17:36:10 +0900",
+      "minecraft:deep_cold_ocean": "2018-11-24 16:56:24 +0900",
       "minecraft:desert": "2018-11-22 23:17:50 +0900",
+      "minecraft:birch_forest": "2018-11-24 17:15:29 +0900",
+      "minecraft:warm_ocean": "2018-11-24 17:02:08 +0900",
+      "minecraft:deep_lukewarm_ocean": "2018-11-24 17:01:40 +0900",
       "minecraft:savanna_plateau": "2018-11-22 16:51:19 +0900",
       "minecraft:beach": "2018-11-22 15:54:50 +0900",
+      "minecraft:dark_forest": "2018-11-24 17:17:46 +0900",
       "minecraft:river": "2018-11-22 16:50:54 +0900",
-      "minecraft:savanna": "2018-11-22 16:34:30 +0900"
+      "minecraft:lukewarm_ocean": "2018-11-24 17:01:29 +0900",
+      "minecraft:wooded_mountains": "2018-11-24 17:42:07 +0900",
+      "minecraft:wooded_hills": "2018-11-24 17:21:52 +0900",
+      "minecraft:stone_shore": "2018-11-24 17:41:51 +0900",
+      "minecraft:mushroom_field_shore": "2018-11-24 17:04:17 +0900",
+      "minecraft:swamp": "2018-11-24 17:22:04 +0900",
+      "minecraft:savanna": "2018-11-22 16:34:30 +0900",
+      "minecraft:plains": "2018-11-24 17:21:14 +0900"
     },
     "done": false
   },
@@ -1731,6 +1814,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2018-11-23 00:03:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-11-24 17:39:07 +0900"
     },
     "done": true
   },
