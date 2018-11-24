@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-11-24 21:29:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2018-11-23 21:37:08 +0900"
@@ -720,7 +726,8 @@
       "minecraft:zombie": "2018-11-22 17:59:27 +0900",
       "minecraft:creeper": "2018-11-22 18:08:48 +0900",
       "minecraft:drowned": "2018-11-23 21:35:22 +0900",
-      "minecraft:zombie_villager": "2018-11-24 15:21:32 +0900"
+      "minecraft:zombie_villager": "2018-11-24 15:21:32 +0900",
+      "minecraft:slime": "2018-11-24 21:39:47 +0900"
     },
     "done": false
   },
@@ -757,6 +764,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2018-11-24 13:55:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-11-24 21:29:32 +0900"
     },
     "done": true
   },
@@ -1126,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-11-24 21:41:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-11-22 18:00:43 +0900"
@@ -1267,6 +1286,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2018-11-23 20:27:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-11-24 21:41:19 +0900"
     },
     "done": true
   },
