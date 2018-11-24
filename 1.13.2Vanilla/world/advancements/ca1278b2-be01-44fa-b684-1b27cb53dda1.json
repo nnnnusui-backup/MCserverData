@@ -782,10 +782,12 @@
       "minecraft:skeleton": "2018-11-22 21:24:31 +0900",
       "minecraft:phantom": "2018-11-22 23:49:48 +0900",
       "minecraft:wither_skeleton": "2018-11-22 21:28:57 +0900",
+      "minecraft:husk": "2018-11-24 16:21:17 +0900",
       "minecraft:ghast": "2018-11-23 23:36:32 +0900",
       "minecraft:magma_cube": "2018-11-22 21:23:49 +0900",
       "minecraft:zombie": "2018-11-22 17:09:32 +0900",
-      "minecraft:creeper": "2018-11-24 01:04:21 +0900"
+      "minecraft:creeper": "2018-11-24 01:04:21 +0900",
+      "minecraft:drowned": "2018-11-24 16:21:05 +0900"
     },
     "done": false
   },
@@ -1389,6 +1391,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 16:57:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-11-24 16:18:04 +0900"
     },
     "done": true
   },
