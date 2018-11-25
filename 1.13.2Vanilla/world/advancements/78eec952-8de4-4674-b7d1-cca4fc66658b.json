@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2018-11-25 20:06:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:30 +0900"
@@ -338,6 +344,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-11-22 16:55:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-11-25 20:12:03 +0900"
     },
     "done": true
   },
