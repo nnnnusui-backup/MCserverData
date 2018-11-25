@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-11-25 17:48:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 17:30:10 +0900"
@@ -239,6 +245,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-11-22 16:54:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-11-25 17:12:58 +0900"
     },
     "done": true
   },
@@ -539,6 +551,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 17:30:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-11-25 17:48:48 +0900"
     },
     "done": true
   },
@@ -1050,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-11-25 17:48:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2018-11-22 17:56:47 +0900"
@@ -1479,13 +1503,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-11-22 16:43:05 +0900",
+      "minecraft:mountains": "2018-11-25 17:53:39 +0900",
+      "minecraft:mushroom_fields": "2018-11-25 17:52:15 +0900",
       "minecraft:desert_hills": "2018-11-23 00:17:59 +0900",
       "minecraft:deep_cold_ocean": "2018-11-22 17:47:58 +0900",
       "minecraft:desert": "2018-11-23 00:17:36 +0900",
       "minecraft:deep_frozen_ocean": "2018-11-22 16:44:28 +0900",
+      "minecraft:deep_lukewarm_ocean": "2018-11-25 17:56:15 +0900",
       "minecraft:savanna_plateau": "2018-11-22 16:49:34 +0900",
       "minecraft:beach": "2018-11-22 16:38:09 +0900",
       "minecraft:river": "2018-11-22 16:48:51 +0900",
+      "minecraft:lukewarm_ocean": "2018-11-25 17:55:07 +0900",
+      "minecraft:wooded_mountains": "2018-11-25 17:54:24 +0900",
+      "minecraft:stone_shore": "2018-11-25 17:55:03 +0900",
+      "minecraft:mushroom_field_shore": "2018-11-25 17:51:51 +0900",
       "minecraft:savanna": "2018-11-22 16:43:50 +0900",
       "minecraft:plains": "2018-11-23 00:23:56 +0900"
     },
@@ -1680,6 +1711,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-11-22 18:42:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2018-11-25 17:06:48 +0900"
     },
     "done": true
   },
