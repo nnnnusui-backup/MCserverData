@@ -1123,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2018-11-25 15:04:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2018-11-22 22:49:13 +0900"
@@ -1234,6 +1240,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2018-11-22 16:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2018-11-25 14:26:48 +0900"
     },
     "done": true
   },
@@ -1873,6 +1885,7 @@
       "minecraft:deep_cold_ocean": "2018-11-24 16:56:24 +0900",
       "minecraft:taiga_hills": "2018-11-24 18:04:27 +0900",
       "minecraft:desert": "2018-11-22 23:17:50 +0900",
+      "minecraft:deep_frozen_ocean": "2018-11-25 15:04:51 +0900",
       "minecraft:jungle": "2018-11-24 18:06:14 +0900",
       "minecraft:birch_forest": "2018-11-24 17:15:29 +0900",
       "minecraft:jungle_hills": "2018-11-24 18:14:46 +0900",
@@ -2118,6 +2131,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-11-23 00:03:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2018-11-25 14:38:38 +0900"
     },
     "done": true
   },
