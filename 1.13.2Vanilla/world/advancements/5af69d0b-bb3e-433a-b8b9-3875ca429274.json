@@ -763,6 +763,7 @@
       "minecraft:phantom": "2018-11-24 14:19:57 +0900",
       "minecraft:wither_skeleton": "2018-11-24 20:05:52 +0900",
       "minecraft:enderman": "2018-11-22 19:22:30 +0900",
+      "minecraft:silverfish": "2018-11-25 20:00:07 +0900",
       "minecraft:magma_cube": "2018-11-24 20:12:27 +0900",
       "minecraft:spider": "2018-11-22 18:00:43 +0900",
       "minecraft:zombie": "2018-11-22 17:59:27 +0900",
@@ -908,6 +909,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2018-11-24 16:49:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-11-25 19:54:17 +0900"
     },
     "done": true
   },
