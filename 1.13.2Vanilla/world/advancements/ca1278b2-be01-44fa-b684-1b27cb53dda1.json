@@ -832,6 +832,7 @@
       "minecraft:wither_skeleton": "2018-11-22 21:28:57 +0900",
       "minecraft:husk": "2018-11-24 16:21:17 +0900",
       "minecraft:ghast": "2018-11-23 23:36:32 +0900",
+      "minecraft:enderman": "2018-11-25 10:38:13 +0900",
       "minecraft:magma_cube": "2018-11-22 21:23:49 +0900",
       "minecraft:zombie": "2018-11-22 17:09:32 +0900",
       "minecraft:drowned": "2018-11-24 16:21:05 +0900",
@@ -854,6 +855,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-11-22 21:20:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-11-25 10:38:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-11-25 10:38:51 +0900"
     },
     "done": true
   },
@@ -890,6 +903,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-11-22 21:14:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-11-25 10:38:51 +0900"
     },
     "done": true
   },
@@ -1445,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-11-25 10:38:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2018-11-24 08:34:24 +0900"
@@ -1727,6 +1752,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2018-11-23 00:45:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-11-25 10:38:43 +0900"
     },
     "done": true
   },
