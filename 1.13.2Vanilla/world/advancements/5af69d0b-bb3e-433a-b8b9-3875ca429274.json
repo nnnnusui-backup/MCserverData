@@ -956,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2018-11-28 23:56:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2018-11-24 23:10:45 +0900"
