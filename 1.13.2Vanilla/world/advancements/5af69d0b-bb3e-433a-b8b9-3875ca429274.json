@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-11-29 01:28:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 18:49:24 +0900"
@@ -195,6 +201,12 @@
     "criteria": {
       "diamond_leggings": "2018-11-24 13:45:05 +0900",
       "diamond_chestplate": "2018-11-24 13:45:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-11-29 01:28:13 +0900"
     },
     "done": true
   },
@@ -627,6 +639,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-11-24 16:19:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-11-29 01:28:13 +0900"
     },
     "done": true
   },
@@ -1851,6 +1869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-11-29 01:28:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-11-23 20:01:36 +0900"
@@ -1860,6 +1884,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-11-23 21:37:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-11-29 01:28:13 +0900"
     },
     "done": true
   },
