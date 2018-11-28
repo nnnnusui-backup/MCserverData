@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-11-28 23:07:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-11-22 21:35:50 +0900"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-22 20:28:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
     },
     "done": true
   },
@@ -325,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 17:56:01 +0900"
@@ -400,6 +418,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-11-22 18:03:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2018-11-28 23:11:40 +0900"
     },
     "done": true
   },
@@ -680,7 +704,8 @@
       "minecraft:skeleton": "2018-11-22 18:23:37 +0900",
       "minecraft:phantom": "2018-11-23 00:35:42 +0900",
       "minecraft:spider": "2018-11-22 21:40:13 +0900",
-      "minecraft:zombie": "2018-11-22 18:06:41 +0900"
+      "minecraft:zombie": "2018-11-22 18:06:41 +0900",
+      "minecraft:creeper": "2018-11-28 23:11:31 +0900"
     },
     "done": false
   },
@@ -693,6 +718,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 17:56:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2018-11-28 23:35:09 +0900"
     },
     "done": true
   },
@@ -741,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-11-22 23:08:09 +0900"
@@ -786,6 +823,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-22 23:08:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
     },
     "done": true
   },
@@ -891,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-11-22 18:12:34 +0900"
@@ -924,6 +973,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2018-11-22 20:32:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-11-28 23:07:51 +0900"
     },
     "done": true
   },
@@ -1041,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-11-28 23:35:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-22 20:28:27 +0900"
@@ -1059,9 +1120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-11-22 18:04:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-11-28 23:07:51 +0900"
     },
     "done": true
   },
@@ -1227,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-11-28 23:07:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2018-11-22 23:26:22 +0900"
@@ -1248,6 +1327,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-11-22 21:37:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
     },
     "done": true
   },
@@ -1302,6 +1387,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2018-11-23 00:39:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-11-28 23:35:33 +0900"
     },
     "done": true
   },
