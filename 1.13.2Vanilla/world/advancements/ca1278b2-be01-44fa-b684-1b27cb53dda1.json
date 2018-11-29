@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-11-29 15:37:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:44 +0900"
@@ -553,6 +559,7 @@
       "minecraft:blaze": "2018-11-23 00:00:59 +0900",
       "minecraft:skeleton": "2018-11-22 21:24:31 +0900",
       "minecraft:phantom": "2018-11-22 23:49:48 +0900",
+      "minecraft:witch": "2018-11-29 15:38:47 +0900",
       "minecraft:wither_skeleton": "2018-11-22 21:28:57 +0900",
       "minecraft:zombie_pigman": "2018-11-28 17:59:29 +0900",
       "minecraft:husk": "2018-11-24 16:21:17 +0900",
@@ -610,6 +617,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-27 19:13:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-11-29 15:36:05 +0900"
     },
     "done": true
   },
@@ -775,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2018-11-29 15:41:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 21:14:47 +0900"
@@ -814,6 +833,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 17:30:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-29 15:38:47 +0900"
     },
     "done": true
   },
@@ -962,6 +987,7 @@
       "minecraft:desert": "2018-11-23 00:17:36 +0900",
       "minecraft:deep_frozen_ocean": "2018-11-22 16:44:28 +0900",
       "minecraft:birch_forest": "2018-11-25 22:32:18 +0900",
+      "minecraft:warm_ocean": "2018-11-29 15:41:01 +0900",
       "minecraft:deep_lukewarm_ocean": "2018-11-25 17:56:15 +0900",
       "minecraft:savanna_plateau": "2018-11-22 16:49:34 +0900",
       "minecraft:beach": "2018-11-22 16:38:09 +0900",
@@ -1160,6 +1186,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 21:14:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2018-11-29 15:35:31 +0900"
     },
     "done": true
   },
@@ -1744,6 +1776,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-11-27 20:26:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-29 15:38:47 +0900"
     },
     "done": true
   },
