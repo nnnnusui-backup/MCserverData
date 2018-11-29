@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2018-11-29 18:11:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_double_plant": "2018-11-29 16:40:47 +0900"
@@ -580,6 +586,7 @@
       "minecraft:cave_spider": "2018-11-27 20:25:34 +0900",
       "minecraft:guardian": "2018-11-25 18:48:53 +0900",
       "minecraft:enderman": "2018-11-25 10:38:13 +0900",
+      "minecraft:silverfish": "2018-11-29 17:51:32 +0900",
       "minecraft:magma_cube": "2018-11-22 21:23:49 +0900",
       "minecraft:spider": "2018-11-25 18:19:34 +0900",
       "minecraft:zombie": "2018-11-22 17:09:32 +0900",
@@ -995,6 +1002,7 @@
       "minecraft:forest": "2018-11-25 18:16:54 +0900",
       "minecraft:taiga": "2018-11-25 22:29:01 +0900",
       "minecraft:desert_hills": "2018-11-23 00:17:59 +0900",
+      "minecraft:giant_tree_taiga": "2018-11-29 17:52:25 +0900",
       "minecraft:deep_cold_ocean": "2018-11-22 17:47:58 +0900",
       "minecraft:snowy_tundra": "2018-11-29 17:03:13 +0900",
       "minecraft:taiga_hills": "2018-11-25 22:45:50 +0900",
@@ -1014,8 +1022,10 @@
       "minecraft:wooded_mountains": "2018-11-25 17:54:24 +0900",
       "minecraft:wooded_hills": "2018-11-25 22:30:54 +0900",
       "minecraft:stone_shore": "2018-11-25 17:55:03 +0900",
+      "minecraft:giant_tree_taiga_hills": "2018-11-29 17:52:47 +0900",
       "minecraft:mushroom_field_shore": "2018-11-25 17:51:51 +0900",
       "minecraft:swamp": "2018-11-25 22:41:40 +0900",
+      "minecraft:snowy_taiga_hills": "2018-11-29 17:47:26 +0900",
       "minecraft:savanna": "2018-11-22 16:43:50 +0900",
       "minecraft:plains": "2018-11-23 00:23:56 +0900"
     },
@@ -1108,6 +1118,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2018-11-23 18:21:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-11-29 18:10:21 +0900"
     },
     "done": true
   },
@@ -1512,6 +1528,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2018-11-27 18:19:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-11-29 17:52:30 +0900"
     },
     "done": true
   },
@@ -1968,6 +1990,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2018-11-22 21:14:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-11-29 17:52:30 +0900"
     },
     "done": true
   },
