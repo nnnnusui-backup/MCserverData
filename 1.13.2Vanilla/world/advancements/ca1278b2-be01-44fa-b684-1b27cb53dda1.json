@@ -564,8 +564,8 @@
       "minecraft:magma_cube": "2018-11-22 21:23:49 +0900",
       "minecraft:spider": "2018-11-25 18:19:34 +0900",
       "minecraft:zombie": "2018-11-22 17:09:32 +0900",
-      "minecraft:drowned": "2018-11-24 16:21:05 +0900",
       "minecraft:creeper": "2018-11-24 01:04:21 +0900",
+      "minecraft:drowned": "2018-11-24 16:21:05 +0900",
       "minecraft:zombie_villager": "2018-11-25 18:12:28 +0900",
       "minecraft:slime": "2018-11-28 23:56:27 +0900"
     },
@@ -580,6 +580,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2018-11-22 21:19:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2018-11-29 14:19:52 +0900"
     },
     "done": true
   },
@@ -841,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-11-29 14:19:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:44 +0900"
@@ -940,9 +952,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-11-22 16:43:05 +0900",
-      "minecraft:forest": "2018-11-25 18:16:54 +0900",
-      "minecraft:mountains": "2018-11-25 17:53:39 +0900",
       "minecraft:mushroom_fields": "2018-11-25 17:52:15 +0900",
+      "minecraft:mountains": "2018-11-25 17:53:39 +0900",
+      "minecraft:forest": "2018-11-25 18:16:54 +0900",
       "minecraft:taiga": "2018-11-25 22:29:01 +0900",
       "minecraft:desert_hills": "2018-11-23 00:17:59 +0900",
       "minecraft:deep_cold_ocean": "2018-11-22 17:47:58 +0900",
@@ -953,8 +965,8 @@
       "minecraft:deep_lukewarm_ocean": "2018-11-25 17:56:15 +0900",
       "minecraft:savanna_plateau": "2018-11-22 16:49:34 +0900",
       "minecraft:beach": "2018-11-22 16:38:09 +0900",
-      "minecraft:river": "2018-11-22 16:48:51 +0900",
       "minecraft:lukewarm_ocean": "2018-11-25 17:55:07 +0900",
+      "minecraft:river": "2018-11-22 16:48:51 +0900",
       "minecraft:wooded_mountains": "2018-11-25 17:54:24 +0900",
       "minecraft:wooded_hills": "2018-11-25 22:30:54 +0900",
       "minecraft:stone_shore": "2018-11-25 17:55:03 +0900",
@@ -1151,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2018-11-29 14:39:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-11-22 16:55:22 +0900"
@@ -1268,6 +1286,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 16:57:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-11-29 14:21:14 +0900"
     },
     "done": true
   },
@@ -2380,6 +2404,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-27 19:13:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-11-29 14:21:14 +0900"
     },
     "done": true
   }
