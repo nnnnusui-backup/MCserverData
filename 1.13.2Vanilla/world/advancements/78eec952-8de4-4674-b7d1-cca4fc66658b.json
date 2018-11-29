@@ -566,7 +566,8 @@
       "minecraft:zombie": "2018-11-22 16:43:21 +0900",
       "minecraft:creeper": "2018-11-22 19:22:07 +0900",
       "minecraft:drowned": "2018-11-24 17:16:17 +0900",
-      "minecraft:zombie_villager": "2018-11-23 01:33:51 +0900"
+      "minecraft:zombie_villager": "2018-11-23 01:33:51 +0900",
+      "minecraft:slime": "2018-11-29 17:14:48 +0900"
     },
     "done": false
   },
@@ -963,6 +964,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2018-11-22 17:29:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-11-29 17:14:48 +0900"
     },
     "done": true
   },
@@ -2097,6 +2104,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2018-11-22 16:55:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-11-29 17:14:48 +0900"
     },
     "done": true
   },
