@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2018-12-01 02:04:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2018-11-22 17:19:27 +0900"
@@ -799,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2018-12-01 02:04:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 17:09:46 +0900"
@@ -879,6 +891,7 @@
       "minecraft:witch": "2018-11-26 02:08:15 +0900",
       "minecraft:wither_skeleton": "2018-11-24 20:05:52 +0900",
       "minecraft:ghast": "2018-11-25 21:37:25 +0900",
+      "minecraft:cave_spider": "2018-12-01 02:07:28 +0900",
       "minecraft:enderman": "2018-11-22 19:22:30 +0900",
       "minecraft:silverfish": "2018-11-25 20:00:07 +0900",
       "minecraft:magma_cube": "2018-11-24 20:12:27 +0900",
