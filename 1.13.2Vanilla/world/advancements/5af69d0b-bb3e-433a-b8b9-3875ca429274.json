@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-12-01 19:54:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2018-11-22 17:17:51 +0900",
@@ -524,6 +530,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2018-11-22 18:00:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-12-01 19:54:47 +0900"
     },
     "done": true
   },
@@ -1465,6 +1477,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-22 18:29:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-12-01 19:54:47 +0900"
     },
     "done": true
   },
