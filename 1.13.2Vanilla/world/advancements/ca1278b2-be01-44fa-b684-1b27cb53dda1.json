@@ -320,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2018-12-03 19:45:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2018-11-22 17:30:10 +0900"
@@ -335,6 +341,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-22 16:46:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2018-12-03 19:37:47 +0900"
     },
     "done": true
   },
@@ -813,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2018-12-03 19:37:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-27 19:13:18 +0900"
@@ -834,6 +852,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2018-11-22 16:55:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2018-12-03 19:45:31 +0900"
     },
     "done": true
   },
@@ -876,6 +900,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2018-11-24 17:43:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2018-12-03 19:45:31 +0900"
     },
     "done": true
   },
@@ -1503,6 +1533,7 @@
       "cooked_cod": "2018-11-22 18:43:14 +0900",
       "bread": "2018-11-22 17:43:48 +0900",
       "rotten_flesh": "2018-11-23 00:07:32 +0900",
+      "salmon": "2018-12-03 20:22:31 +0900",
       "cooked_salmon": "2018-11-27 21:54:52 +0900",
       "carrot": "2018-11-22 16:53:32 +0900"
     },
