@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2018-11-22 22:12:26 +0900"
@@ -134,6 +140,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-24 16:31:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-12-03 21:11:43 +0900"
     },
     "done": true
   },
@@ -184,6 +196,12 @@
       "diamond_leggings": "2018-11-25 20:35:58 +0900",
       "diamond_helmet": "2018-11-25 20:35:58 +0900",
       "diamond_chestplate": "2018-11-25 20:35:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
     },
     "done": true
   },
@@ -325,6 +343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2018-11-23 02:24:46 +0900"
@@ -356,6 +380,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2018-11-23 00:55:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-12-03 21:11:52 +0900"
     },
     "done": true
   },
@@ -464,6 +494,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-11-23 02:24:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
     },
     "done": true
   },
@@ -697,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-11-22 21:19:55 +0900"
@@ -833,6 +875,7 @@
     "criteria": {
       "minecraft:skeleton": "2018-11-22 21:12:04 +0900",
       "minecraft:phantom": "2018-11-26 20:06:50 +0900",
+      "minecraft:ghast": "2018-12-03 21:14:31 +0900",
       "minecraft:zombie": "2018-11-23 00:54:42 +0900"
     },
     "done": false
@@ -852,6 +895,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-11-23 02:19:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-03 21:11:16 +0900"
     },
     "done": true
   },
@@ -876,6 +925,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-11-23 01:45:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2018-12-03 20:50:24 +0900"
     },
     "done": true
   },
@@ -906,6 +961,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-24 16:31:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-12-03 21:11:43 +0900"
     },
     "done": true
   },
@@ -966,6 +1027,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2018-11-22 21:19:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2018-12-03 21:05:56 +0900"
     },
     "done": true
   },
@@ -1035,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2018-11-22 21:20:36 +0900"
@@ -1047,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-12-03 21:11:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-11-23 00:54:29 +0900"
@@ -1056,6 +1135,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-11-22 22:08:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
     },
     "done": true
   },
@@ -1101,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-12-03 21:17:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-11-22 22:08:13 +0900"
@@ -1128,6 +1219,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2018-11-27 17:13:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2018-12-03 21:01:19 +0900"
     },
     "done": true
   },
@@ -1164,6 +1261,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-24 16:31:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
     },
     "done": true
   },
@@ -1215,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2018-11-23 02:24:46 +0900"
@@ -1224,6 +1333,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2018-11-23 20:10:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
     },
     "done": true
   },
@@ -1317,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-12-03 21:11:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-22 21:19:32 +0900"
@@ -1365,6 +1486,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-12-03 21:11:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2018-11-22 21:19:27 +0900"
@@ -1380,6 +1513,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2018-12-03 19:19:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-03 21:11:16 +0900"
     },
     "done": true
   },
@@ -1402,9 +1541,12 @@
       "minecraft:taiga": "2018-11-26 22:08:54 +0900",
       "minecraft:deep_cold_ocean": "2018-11-26 22:12:21 +0900",
       "minecraft:taiga_hills": "2018-11-26 22:09:08 +0900",
+      "minecraft:deep_lukewarm_ocean": "2018-12-03 21:24:01 +0900",
       "minecraft:savanna_plateau": "2018-11-22 21:09:00 +0900",
       "minecraft:beach": "2018-11-22 21:08:08 +0900",
       "minecraft:river": "2018-11-22 21:08:43 +0900",
+      "minecraft:lukewarm_ocean": "2018-12-03 21:23:50 +0900",
+      "minecraft:wooded_mountains": "2018-12-03 21:23:23 +0900",
       "minecraft:stone_shore": "2018-11-26 22:08:23 +0900",
       "minecraft:savanna": "2018-11-22 21:08:14 +0900"
     },
@@ -1428,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-12-03 21:12:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2018-11-22 21:19:27 +0900"
@@ -1443,6 +1591,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2018-12-03 20:13:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2018-12-03 21:05:56 +0900"
     },
     "done": true
   },
@@ -1590,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2018-12-03 21:11:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-11-23 04:30:10 +0900"
@@ -1653,6 +1813,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-11-22 21:19:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-12-03 21:11:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-03 21:11:16 +0900"
     },
     "done": true
   },
