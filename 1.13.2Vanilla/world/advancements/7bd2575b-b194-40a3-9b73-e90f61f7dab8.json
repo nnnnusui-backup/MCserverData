@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-12-03 22:25:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-11-23 02:24:46 +0900"
@@ -1544,8 +1550,8 @@
       "minecraft:deep_lukewarm_ocean": "2018-12-03 21:24:01 +0900",
       "minecraft:savanna_plateau": "2018-11-22 21:09:00 +0900",
       "minecraft:beach": "2018-11-22 21:08:08 +0900",
-      "minecraft:river": "2018-11-22 21:08:43 +0900",
       "minecraft:lukewarm_ocean": "2018-12-03 21:23:50 +0900",
+      "minecraft:river": "2018-11-22 21:08:43 +0900",
       "minecraft:wooded_mountains": "2018-12-03 21:23:23 +0900",
       "minecraft:stone_shore": "2018-11-26 22:08:23 +0900",
       "minecraft:savanna": "2018-11-22 21:08:14 +0900"
@@ -1567,6 +1573,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2018-11-23 01:00:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-12-03 22:25:17 +0900"
     },
     "done": true
   },
@@ -1711,6 +1723,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-11-22 23:23:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-12-03 22:25:17 +0900"
     },
     "done": true
   },
