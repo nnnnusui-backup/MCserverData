@@ -456,13 +456,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-24 02:07:35 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-24 02:07:35 +0900"
     },
@@ -1552,8 +1552,8 @@
       "minecraft:deep_lukewarm_ocean": "2018-12-03 21:24:01 +0900",
       "minecraft:savanna_plateau": "2018-11-22 21:09:00 +0900",
       "minecraft:beach": "2018-11-22 21:08:08 +0900",
-      "minecraft:river": "2018-11-22 21:08:43 +0900",
       "minecraft:lukewarm_ocean": "2018-12-03 21:23:50 +0900",
+      "minecraft:river": "2018-11-22 21:08:43 +0900",
       "minecraft:wooded_mountains": "2018-12-03 21:23:23 +0900",
       "minecraft:stone_shore": "2018-11-26 22:08:23 +0900",
       "minecraft:savanna": "2018-11-22 21:08:14 +0900"
